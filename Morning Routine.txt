@@ -1,0 +1,122 @@
+Morning Routine
+
+1. Wake Up
+   - Set alarm_time = 6:00 AM
+   - IF current_time == alarm_time
+       Wake up
+       PRINT "Good Morning!"
+
+2. Get out of bed and stretch for 5 minutes
+   - Set stretch_time = 5 minutes
+
+3. Prepare Breakfast
+   - Set breakfast_choice = "oatmeal"
+   - Check ingredients_available = True
+   - IF ingredients_available == False
+        PRINT "Error: Breakfast ingredients not available."
+        EXIT
+   - Prepare breakfast
+
+4. Make Coffee or Juice (optional)
+   - Call the 'Make Coffee' function if coffee_needed == True
+   - OR make juice if juice_needed == True
+
+5. Shower and Get Ready for School
+   - Set shower_time = 10 minutes
+   - Set outfit = "school_uniform" or "casual"
+
+6. Pack School Bag
+   - Set school_materials = ["books", "laptop", "notebooks"]
+   - FOR each item in school_materials
+       Check item == packed
+       IF item != packed
+           Pack item
+
+School Routine
+
+7. Leave for School
+   - Set departure_time = 7:30 AM
+   - IF current_time == departure_time
+        Leave for school
+
+8. Attend Classes
+   - Set class_schedule = ["Data Structures and alghorithm", "System Integration", "Contempory world", "Art appreciation"]
+   - FOR each class in class_schedule
+       Attend class
+       Take notes
+
+9. Study and Participate
+   - IF class == interactive
+       Participate in class discussion
+   - IF homework_assigned == True
+       Record homework in to_do_list
+
+10. Lunch Break
+   - Set lunch_time = 12:30 PM
+   - IF current_time == lunch_time
+   - IF myjowa == eat with jowa
+   - ELSE == eat with friends
+
+11. Continue Attending Afternoon Classes
+   - Attend remaining classes from class_schedule
+   - IF all classes attended == True
+       PRINT "All classes completed for the day!"
+
+Afternoon Routine
+
+12. Extracurricular Activities
+   - Set activity_schedule = ["basketball practice", "debate club"]
+   - IF current_time == activity_time
+       Attend extracurricular activity
+
+13. Go Home
+   - Set school_end_time = 3:30 PM
+   - IF current_time == school_end_time
+       Go home
+
+Study Routine
+
+14. Start Homework
+   - Set homework_time = 4:00 PM
+   - IF current_time == homework_time
+       Open to_do_list
+       FOR each homework_task in to_do_list
+           Work on homework_task for 45 minutes
+           Mark task as completed
+
+15. Review Notes
+   - Set review_time = 30 minutes
+   - Review notes taken in class for better understanding
+
+16. Take a Short Break
+   - Set break_time = 5:30 PM
+   - Take 15-minute break (snack, stretch, relax)
+
+Evening Routine
+
+17. Exercise
+   - Set exercise_time = 6:00 PM
+   - IF current_time == exercise_time
+       Choose exercise = "gym" or "Varisty Training"
+       Set exercise_duration = 1 hour
+       Start exercise
+
+18. Prepare Dinner
+   - Set dinner_time = 8:00 PM
+   - IF current_time == dinner_time
+       Prepare and eat dinner
+
+19. Play Games
+   - Set Play Games = 8:30 PM
+   - IF current_time == Play Games
+       Valorant, Roblox, Minecraft, League of Legends = 1 hour
+
+20. Prepare for Bed
+   - Set bed_time = 10:30 PM
+   - IF current_time == bed_time
+       Brush teeth, wash face
+       Set alarm for next day
+       Get in bed
+       PRINT "Good night!" 
+
+sakit na ng ulo ko, cassie
